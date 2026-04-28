@@ -1,1 +1,1 @@
-# Railway-Reservation-System-using-structures-and-queue
+The objective of this project is to develop a Railway Reservation System using the Queue data structure. The system is designed to simulate real-world railway ticket booking operations, including ticket reservation, cancellation, and waiting list management. It aims to ensure efficient handling of passenger data and fair allocation of seats using appropriate data structure logic.
